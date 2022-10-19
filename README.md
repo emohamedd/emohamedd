@@ -1,7 +1,7 @@
 <h1 align="center">HELLO WORLD  👋 !
 <h1 align="center"> I'm Emohamed</h1>
 <h3 align="center">A passionate developer from Moroocco</h3>
-
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/emohamed" alt="emohamed's 42 stats" /></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emohamedd" alt="emohamedd" /></a> </p>
 
 - 🔭 I’m currently working on **42 cursus**
