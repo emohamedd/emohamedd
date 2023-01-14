@@ -1,4 +1,4 @@
-![3dgifmaker70880](https://user-images.githubusercontent.com/102475281/212457855-7380f847-5d00-496d-834b-19179555fd1c.gif)
+<h1 align="center">![3dgifmaker70880](https://user-images.githubusercontent.com/102475281/212457855-7380f847-5d00-496d-834b-19179555fd1c.gif)
 
 <h1 align="center">HELLO WORLD  👋 !
 <h1 align="center"> I'm Emohamed</h1>
