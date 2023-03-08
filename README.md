@@ -6,7 +6,7 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/emohamed" alt="emohamed's 42 stats" /></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emohamedd" alt="emohamedd" /></a> </p>
 
-- 🔭 I’m currently working on **42 cursus** && alx_africa cursus
+- 🔭 I’m currently working on **42 cursus** && **alx_africa cursus**
 
 - 👨‍💻 All of my projects are available at [https://github.com/emohamedd](https://github.com/emohamedd)
 
