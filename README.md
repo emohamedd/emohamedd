@@ -3,7 +3,6 @@
 <h1 align="center">HELLO WORLD  👋 !
 <h1 align="center"> I'm Emohamed</h1>
 <h3 align="center">A passionate developer from Moroocco</h3>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/emohamed" alt="emohamed's 42 stats" /></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emohamedd" alt="emohamedd" /></a> </p>
 
 - 🔭 I’m currently working on **42 cursus** && **alx_africa cursus**
@@ -28,4 +27,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emohamedd&" alt="emohamedd" /></p>
 
-[![emohamed's 42 stats](https://badge.mediaplus.ma/greenbinary/emohamed)](https://github.com/oakoudad/badge42)
