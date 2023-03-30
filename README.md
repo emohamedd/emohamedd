@@ -1,7 +1,7 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=22F72A&width=435&lines=Hello+World+!+%2C+I'm+EMMD" alt="Typing SVG" /></a>
+
 
 ![linkedin](https://user-images.githubusercontent.com/102475281/218801953-d1fb2656-71cf-4b20-882d-5d7bbba1977a.jpg)
-<h1 align="center">HELLO WORLD  👋 !
-<h1 align="center"> I'm Emohamed</h1>
 <h3 align="center">A passionate developer from Moroocco</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emohamedd" alt="emohamedd" /></a> </p>
 
