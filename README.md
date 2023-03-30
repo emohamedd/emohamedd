@@ -12,6 +12,8 @@
 - 📫 How to reach me **a.elgaouej@gmail.com**
 
 - ⚡ Fun fact **I Think I Lost MY CTRL**
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emohamedd)](https://github.com/anuraghazra/github-readme-stats)
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 <h4> Languages </h4>
 <span> 
