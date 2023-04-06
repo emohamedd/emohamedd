@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=22F72A&width=435&lines=Hello+World+!+%2C+I'm+EMMD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&width=600&lines=Hello+World+!%2C+I'M+EMMD" alt="Typing SVG" /></a>
 
 ![Black-And-White-Futuristic-Gaming-Channel-Youtube-Intro-_1_](https://user-images.githubusercontent.com/102475281/230232236-a944b762-2681-4b69-adba-773c2560762e.gif)
 
